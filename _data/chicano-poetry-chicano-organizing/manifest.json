@@ -5,7 +5,7 @@
     "label": { "en": [ "Chicano Poetry, Chicano Organizing" ] },
     "homepage": [
       {
-        "id": "https://www.laits.utexas.edu/onda_latina/program?sernum=000535507&amp;amp;term=Chicano%20Poetry,%20Chicano%20Organizing",
+        "id": "https://www.laits.utexas.edu/onda_latina/program?sernum=000535507&amp;amp;amp;term=Chicano%20Poetry,%20Chicano%20Organizing",
         "type": "Text",
         "label": { "en": [ "Chicano Poetry, Chicano Organizing" ] },
         "format": "text/html"
@@ -25,14 +25,6 @@
         "duration": 1514.0,
         "annotations": [
           
-          {
-            "type": "AnnotationPage",
-            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/chicano-poetry-chicano-organizing-canvas-1-tactics.json",
-            "label": {
-              "none": ["Tactics"]
-            }
-          }
-          ,
           {
             "type": "AnnotationPage",
             "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/chicano-poetry-chicano-organizing-canvas-1-culture.json",
