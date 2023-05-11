@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/the-chicano-movement-today/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "The Chicano Movement Today" ] },
+    "homepage": [
+      {
+        "id": "https://www.laits.utexas.edu/onda_latina/program?sernum=000535498&amp;term=the%20chicano%20movement%20today",
+        "type": "Text",
+        "label": { "en": [ "The Chicano Movement Today" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.laits.utexas.edu/onda_latina/index",
+        "type": "Agent",
+        "label": { "en": [ "Onda Latina" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/the-chicano-movement-today/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1515.0,
+        "items": [
+          {
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/the-chicano-movement-today/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/the-chicano-movement-today/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://dase.laits.utexas.edu/media/mexican_american_experience/mp3/000535498.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1515.0
+                },
+                "target": "https://trentwintermeier.github.io/communicating-us-latine-activism/the-chicano-movement-today/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
