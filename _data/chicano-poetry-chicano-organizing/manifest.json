@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/chicano-poetry-chicano-organizing/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Chicano Poetry, Chicano Organizing" ] },
+    "homepage": [
+      {
+        "id": "https://www.laits.utexas.edu/onda_latina/program?sernum=000535507&amp;term=Chicano%20Poetry,%20Chicano%20Organizing",
+        "type": "Text",
+        "label": { "en": [ "Chicano Poetry, Chicano Organizing" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.laits.utexas.edu/onda_latina/index",
+        "type": "Agent",
+        "label": { "en": [ "Onda Latina" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/chicano-poetry-chicano-organizing/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1514.0,
+        "items": [
+          {
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/chicano-poetry-chicano-organizing/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/chicano-poetry-chicano-organizing/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://dase.laits.utexas.edu/media/mexican_american_experience/mp3/000535507.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1514.0
+                },
+                "target": "https://trentwintermeier.github.io/communicating-us-latine-activism/chicano-poetry-chicano-organizing/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
