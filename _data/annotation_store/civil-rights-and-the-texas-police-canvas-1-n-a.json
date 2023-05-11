@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/civil-rights-and-the-texas-police-canvas-1-n-a.json",
+  "type": "AnnotationPage",
+  "label": "N/A",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "civil-rights-and-the-texas-police-canvas-1-n-a-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Changes in the police force over the last 150 years",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "23880.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "civil-rights-and-the-texas-police-canvas-1-n-a-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Systemic issues in the US",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "65160.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "civil-rights-and-the-texas-police-canvas-1-n-a-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The use of non-violent weapons",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "75720.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "civil-rights-and-the-texas-police-canvas-1-n-a-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Crime, police, and funding",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "80100.0"
+        }
+      }
+    }
+  ]
+}

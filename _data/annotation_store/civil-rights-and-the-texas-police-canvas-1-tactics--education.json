@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/civil-rights-and-the-texas-police-canvas-1-tactics--education.json",
+  "type": "AnnotationPage",
+  "label": "Tactics, Education",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "civil-rights-and-the-texas-police-canvas-1-tactics--education-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Non-profit fighting back against police brutality",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "70800.0"
+        }
+      }
+    }
+  ]
+}

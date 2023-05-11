@@ -5,7 +5,7 @@
     "label": { "en": [ "Civil Rights and the Texas Police" ] },
     "homepage": [
       {
-        "id": "https://www.laits.utexas.edu/onda_latina/program?sernum=000536953&amp;term=civil%20rights%20and%20the%20texas%20police",
+        "id": "https://www.laits.utexas.edu/onda_latina/program?sernum=000536953&amp;amp;term=civil%20rights%20and%20the%20texas%20police",
         "type": "Text",
         "label": { "en": [ "Civil Rights and the Texas Police" ] },
         "format": "text/html"
@@ -23,6 +23,48 @@
         "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1506.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/civil-rights-and-the-texas-police-canvas-1-health--education--social-movements.json",
+            "label": {
+              "none": ["Health, Education, Social Movements"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/civil-rights-and-the-texas-police-canvas-1-violence.json",
+            "label": {
+              "none": ["Violence"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/civil-rights-and-the-texas-police-canvas-1-tactics--education.json",
+            "label": {
+              "none": ["Tactics, Education"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/civil-rights-and-the-texas-police-canvas-1-discrimination.json",
+            "label": {
+              "none": ["Discrimination"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/civil-rights-and-the-texas-police-canvas-1-n-a.json",
+            "label": {
+              "none": ["N/A"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/paintings",

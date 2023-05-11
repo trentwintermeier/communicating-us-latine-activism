@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/civil-rights-and-the-texas-police-canvas-1-discrimination.json",
+  "type": "AnnotationPage",
+  "label": "Discrimination",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "civil-rights-and-the-texas-police-canvas-1-discrimination-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Recent lawsuits files against police involving brutality",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "33960.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "civil-rights-and-the-texas-police-canvas-1-discrimination-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Current citizen complaints and court cases in McAllen, Texas",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "41160.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "civil-rights-and-the-texas-police-canvas-1-discrimination-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "US and Mexican autopsy differences in specific investigations",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "49500.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "civil-rights-and-the-texas-police-canvas-1-discrimination-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Interviewing witnesses and the lack of",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "55920.0"
+        }
+      }
+    }
+  ]
+}

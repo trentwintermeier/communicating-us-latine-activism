@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/civil-rights-and-the-texas-police-canvas-1-health--education--social-movements.json",
+  "type": "AnnotationPage",
+  "label": "Health, Education, Social Movements",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "civil-rights-and-the-texas-police-canvas-1-health--education--social-movements-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Distributing funding for social justice",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "83700.0"
+        }
+      }
+    }
+  ]
+}
