@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Civil Rights and the Texas Police" ] },
+    "homepage": [
+      {
+        "id": "https://www.laits.utexas.edu/onda_latina/program?sernum=000536953&amp;term=civil%20rights%20and%20the%20texas%20police",
+        "type": "Text",
+        "label": { "en": [ "Civil Rights and the Texas Police" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.laits.utexas.edu/onda_latina/index",
+        "type": "Agent",
+        "label": { "en": [ "Onda Latina" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1506.0,
+        "items": [
+          {
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://dase.laits.utexas.edu/media/mexican_american_experience/mp3/000536953.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1506.0
+                },
+                "target": "https://trentwintermeier.github.io/communicating-us-latine-activism/civil-rights-and-the-texas-police/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
