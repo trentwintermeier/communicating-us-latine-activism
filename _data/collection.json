@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Communicating U.S. Latine Activism" ] },
+    "summary": { "en": [ "This project works with three audio files from UT Austin's Onda Latina to supplement a lesson plan for LLILAS Benson." ] },
+    "items": [
+    ]
+}
