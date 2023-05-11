@@ -5,7 +5,7 @@
     "label": { "en": [ "The Chicano Movement Today" ] },
     "homepage": [
       {
-        "id": "https://www.laits.utexas.edu/onda_latina/program?sernum=000535498&amp;term=the%20chicano%20movement%20today",
+        "id": "https://www.laits.utexas.edu/onda_latina/program?sernum=000535498&amp;amp;term=the%20chicano%20movement%20today",
         "type": "Text",
         "label": { "en": [ "The Chicano Movement Today" ] },
         "format": "text/html"
@@ -23,6 +23,104 @@
         "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/the-chicano-movement-today/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1515.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-socioeconomics--health.json",
+            "label": {
+              "none": ["Socioeconomics, Health"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-voting.json",
+            "label": {
+              "none": ["Voting"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-representation.json",
+            "label": {
+              "none": ["Representation"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-tactics.json",
+            "label": {
+              "none": ["Tactics"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-media.json",
+            "label": {
+              "none": ["Media"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-violence.json",
+            "label": {
+              "none": ["Violence"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-representation--media--tactics.json",
+            "label": {
+              "none": ["Representation, Media, Tactics"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-n-a.json",
+            "label": {
+              "none": ["N/A"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-socioeconomics--education--health.json",
+            "label": {
+              "none": ["Socioeconomics, Education, Health"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-discrimination--education.json",
+            "label": {
+              "none": ["Discrimination, Education"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-representation--social-movements.json",
+            "label": {
+              "none": ["Representation, Social Movements"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-socioeconomics.json",
+            "label": {
+              "none": ["Socioeconomics"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/the-chicano-movement-today/canvas-1/paintings",

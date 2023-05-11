@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-tactics.json",
+  "type": "AnnotationPage",
+  "label": "Tactics",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-chicano-movement-today-canvas-1-tactics-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicano movement in relation to white counterculture movement and Black civil rights movement",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/the-chicano-movement-today/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "8700.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-chicano-movement-today-canvas-1-tactics-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Development of empathetic unity",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/the-chicano-movement-today/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "85920.0"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-violence.json",
+  "type": "AnnotationPage",
+  "label": "Violence",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-chicano-movement-today-canvas-1-violence-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mexican American participation in WWII, Korean War, Vietnam War",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/the-chicano-movement-today/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "81900.0"
+        }
+      }
+    }
+  ]
+}

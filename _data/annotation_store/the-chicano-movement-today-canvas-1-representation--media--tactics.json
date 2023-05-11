@@ -1,0 +1,30 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/the-chicano-movement-today-canvas-1-representation--media--tactics.json",
+  "type": "AnnotationPage",
+  "label": "Representation, Media, Tactics",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "the-chicano-movement-today-canvas-1-representation--media--tactics-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Use of airways to encourage people of Spanish origin to be counted in 1980 census for federal and state funding",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/the-chicano-movement-today/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "42600.0"
+        }
+      }
+    }
+  ]
+}
