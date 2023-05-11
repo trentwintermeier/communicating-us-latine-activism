@@ -1,0 +1,52 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://trentwintermeier.github.io/communicating-us-latine-activism/annotations/chicano-poetry-chicano-organizing-canvas-1-social-movements.json",
+  "type": "AnnotationPage",
+  "label": "Social Movements",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "chicano-poetry-chicano-organizing-canvas-1-social-movements-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicano movement effects",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/chicano-poetry-chicano-organizing/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "58500.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "chicano-poetry-chicano-organizing-canvas-1-social-movements-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Defensive mobilization effects and opportunities",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://trentwintermeier.github.io/communicating-us-latine-activism/chicano-poetry-chicano-organizing/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "68400.0"
+        }
+      }
+    }
+  ]
+}
