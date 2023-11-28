@@ -1,5 +1,5 @@
 ---
-layout: item
+layout: aviary
 title: Chicano Poetry, Chicano Organizing
 manifest_name: chicano-poetry-chicano-organizing
 permalink: chicano-poetry-chicano-organizing
