@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: The Chicano Movement Today
 manifest_name: the-chicano-movement-today
 permalink: the-chicano-movement-today

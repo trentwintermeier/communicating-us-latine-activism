@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Civil Rights and the Texas Police
 manifest_name: civil-rights-and-the-texas-police
 permalink: civil-rights-and-the-texas-police
